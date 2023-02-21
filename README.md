@@ -1,4 +1,9 @@
 ### Hi there 👋
+![giphy](https://user-images.githubusercontent.com/105734074/220481115-a81508af-2332-49bb-97ac-d3097a6079f9.gif)
+
+My name is Inês, I am a Chemical Enginner :woman_scientist: turned future programmer! :woman_technologist:
+
+
 
 <!--
 **inesalves44/inesalves44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
