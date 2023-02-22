@@ -27,7 +27,10 @@ When I am not programming I am usually reading :books: or watching :tv: or even 
   <a href="https://www.linkedin.com/in/inesalves94/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+    <a href="https://www.kaggle.com/insalves44">
+    <img src="https://img.shields.io/badge/kaggle-purple?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://github.com/inesalves44/inesalves44/blob/main/InesAlves_eng_test.pdf">
     <img src="https://img.shields.io/badge/Resumé-red?style=for-the-badge&logo=resume&logoColor=white" alt="Resumé Badge"/>
   </a>
 </div>
@@ -37,6 +40,8 @@ When I am not programming I am usually reading :books: or watching :tv: or even 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inesalves44)
 
 ### My Favorite Projects :computer:
+
+
 
 <!--
 **inesalves44/inesalves44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
