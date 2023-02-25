@@ -10,13 +10,13 @@ I worked for 4 years in quality control and management, and now I am trying to c
 
 Rigth now I am learning the ins and outs of the C programming language in 42.
 
-At the same time I am, on my own, I am learning more about the beautiful world of data!!
+At the same time I am, on my own, learning more about the beautiful world of data!!
 
 <div align="center">
 <img src= "https://user-images.githubusercontent.com/105734074/220484770-7f62c3c3-06ed-46ce-b972-de779816eb05.gif"/>
 </div>
 
-Here I am understanding trying to understand and learn about all the aspects in a Data cycle. From Data Analyst to Data Engineering!
+Here I am trying to understand and learn about all the aspects in a Data cycle. From Data Analyst to Data Engineering!
 But I do not limit myself so any type of programming challenge is welcomed!
 
 When I am not programming I am usually reading :books: or watching :tv: or even better exploring the North of Portugal!
