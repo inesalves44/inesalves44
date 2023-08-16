@@ -13,13 +13,23 @@ Rigth now I am learning the ins and outs of the C programming language in 42.
 At the same time I am, on my own, learning more about the beautiful world of data!!
 
 <div align="center">
-<img src= "https://user-images.githubusercontent.com/105734074/220484770-7f62c3c3-06ed-46ce-b972-de779816eb05.gif"/>
+  <img src= "https://user-images.githubusercontent.com/105734074/220484770-7f62c3c3-06ed-46ce-b972-de779816eb05.gif"/>
 </div>
 
 Here I am trying to understand and learn about all the aspects in a Data cycle. From Data Analyst to Data Engineering!
 But I do not limit myself so any type of programming challenge is welcomed!
 
 When I am not programming I am usually reading :books: or watching :tv: or even better exploring the North of Portugal!
+### Sections
+
+<div id="Sections">
+ <a href="https://github.com/inesalves44/42School" style="background-color:powderblue;">
+   42 School
+  </a>
+</div
+
+
+
 
 ### Contacts
 
@@ -33,27 +43,5 @@ When I am not programming I am usually reading :books: or watching :tv: or even 
   <a href="https://github.com/inesalves44/inesalves44/blob/main/InesAlves_eng_test.pdf">
     <img src="https://img.shields.io/badge/Resumé-red?style=for-the-badge&logo=resume&logoColor=white" alt="Resumé Badge"/>
   </a>
-</div>
+</div
 
-### My Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inesalves44)
-
-### My Favorite Projects :computer:
-
-
-
-<!--
-**inesalves44/inesalves44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
