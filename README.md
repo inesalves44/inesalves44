@@ -6,15 +6,11 @@
 ### About Me :raising_hand_woman:
 My name is Inês, I am a Chemical Enginner :woman_scientist: turned programmer! :woman_technologist:
 
-I worked for 4 years in quality control and management, and now I am trying to change my career path in 42 Porto, one of the top programming schools in the world!
+I worked for 4 years in quality control and management, and now I am trying to change my career path in 42 Porto, one of the top programming schools in the world! In the meantime I got accepted in a program called Upskill that helps people begin a career in IT. 
 
-Rigth now I am learning the ins and outs of the C programming language in 42.
+So, besides learning C and C++ in 42 I am also learning C#, HTML, CSS, Angular and Power platform. The objective for the end of the course is to be microsoft certified in Power Platform!
 
-At the same time I am, on my own, learning more about the beautiful world of data!!
-
-<div align="center">
-  <img src= "https://user-images.githubusercontent.com/105734074/220484770-7f62c3c3-06ed-46ce-b972-de779816eb05.gif"/>
-</div>
+At the same time I am, on my own, learning more about the beautiful world of data and creating fun projects to test what I am learning!!
 
 Here I am trying to understand and learn about all the aspects in a Data cycle. From Data Analyst to Data Engineering!
 But I do not limit myself so any type of programming challenge is welcomed!
