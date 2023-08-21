@@ -21,15 +21,15 @@ When I am not programming I am usually reading :books: or watching :tv: or even 
 
 <p float="left" align="center">
   <a href="https://github.com/inesalves44/42School">
-    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/42school.png" width="200" height="100" />
+    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/42school1.png" width="200" height="100" />
   </a>
   &nbsp;
   <a href="google.com">
-    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/Untitled.png" width="200" height="100"/>
+    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/other.png" width="200" height="100"/>
   </a>
   &nbsp;
   <a href="google.com">
-    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/myP.png" width="200" height="100"/>
+    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/myP1.png" width="200" height="100"/>
   </a>
 </p>
 
