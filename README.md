@@ -16,14 +16,22 @@ Here I am trying to understand and learn about all the aspects in a Data cycle. 
 But I do not limit myself so any type of programming challenge is welcomed!
 
 When I am not programming I am usually reading :books: or watching :tv: or even better exploring the North of Portugal!
+
 ### Sections
 
-<div id="Sections">
- <a href="https://github.com/inesalves44/42School" style="background-color:powderblue;">
-   42 School
+<p float="left" align="center">
+  <a href="https://github.com/inesalves44/42School">
+    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/42school.png" width="200" height="100" />
   </a>
-</div
-
+  &nbsp;
+  <a href="google.com">
+    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/Untitled.png" width="200" height="100"/>
+  </a>
+  &nbsp;
+  <a href="google.com">
+    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/myP.png" width="200" height="100"/>
+  </a>
+</p>
 
 
 
