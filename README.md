@@ -12,7 +12,7 @@ So, besides learning C and C++ in 42 I am also learning C#, HTML, CSS, Angular a
 
 At the same time I am, on my own, learning more about the beautiful world of data and creating fun projects to test what I am learning!!
 
-Here I am trying to understand and learn about all the aspects in a Data cycle. From Data Analyst to Data Engineering!
+So, here I am, trying to understand and learn about all the aspects in a Data cycle. From Data Analyst to Data Engineering!
 But I do not limit myself so any type of programming challenge is welcomed!
 
 When I am not programming I am usually reading :books: or watching :tv: or even better exploring the North of Portugal!
