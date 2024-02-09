@@ -27,11 +27,6 @@ When I am not programming I am usually reading :books: or watching :tv: or even 
   <a href="https://github.com/inesalves44/AcademicProjects">
     <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/other.png" width="200" height="100"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/inesalves44/MyProjects">
-    <img src="https://raw.githubusercontent.com/inesalves44/inesalves44/main/myP1.png" width="200" height="100"/>
-  </a>
-</p>
 
 
 
